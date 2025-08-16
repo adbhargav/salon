@@ -10,7 +10,7 @@ const Home = () => (
       <div className="absolute inset-0 bg-black/30 flex items-center">
         <div className="max-w-4xl mx-auto px-6 md:px-12">
           <h1 className="text-4xl md:text-6xl font-extrabold text-white drop-shadow-lg mb-4">
-            Welcome to <span className="text-rose-300">Salon</span>
+            Welcome to <span className="text-rose-300">Glamour</span>
           </h1>
           <p className="text-lg md:text-2xl text-white/90 font-medium mb-6 md:max-w-2xl drop-shadow">
             Where timeless elegance meets modern beauty. Experience curated hair, skin, and spa artistry in a luxurious atmosphere designed for your comfort and confidence.
